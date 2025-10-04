@@ -29,4 +29,4 @@ jobs:
           python-version: 3.13 # 6. Elige una versión de Python (ej: '3.8', '3.9', '3.10', '3.11', '3.12').
 
       - name: Ejecutar script Python
-        run: mi_script.py #7. Completa para ejecutar el script de python. Pista: python <nombre_archivo>
+        run: python mi_script.py #7. Completa para ejecutar el script de python. Pista: python <nombre_archivo>
